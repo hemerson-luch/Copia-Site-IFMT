@@ -1,8 +1,20 @@
 .face{
-	margin-left: 398px;
+	margin-left: 298px;
 	margin-bottom: 10px;
 	}
 .info{
 	margin-left: 398px;
 	margin-bottom: 20px;
+}
+.aula{
+padding-left:80px; 
+padding-right:80px;
+
+}
+.aula2{
+	padding-right:59px;
+}
+
+.aula3{
+	margin-left:99px;
 }
